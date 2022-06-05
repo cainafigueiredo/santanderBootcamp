@@ -13,3 +13,5 @@
     <body>
     </body>
 </html>
+
+- **Semântica:** <section>, <header>, <article>, <aside>, <footer>, <h1>-<h6>
