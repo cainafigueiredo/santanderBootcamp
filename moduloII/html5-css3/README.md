@@ -15,3 +15,5 @@
 </html>
 
 - **Semântica:** <section>, <header>, <article>, <aside>, <footer>, <h1>-<h6>
+
+- **Textos e links:** <h1>-<h6>, <p>, <a> (atributos principais: _href_ e _target_)
