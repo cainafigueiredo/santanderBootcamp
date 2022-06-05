@@ -44,3 +44,9 @@ Nesse caso, os seletores são: a, p, h1 e h3. As declarações são as linhas en
 }
 
 - **Box Model:** O navegador representa cada elemento HTML como uma caixa retangular. Existem 4 áreas: Margin (espaçamento entre elementos), border (circundam o padding e o conteúdo), padding (espaçamento entre a borda e o conteúdo) e content (texto, imagem, vídeo, ...).
+
+- **Padding e Margin:** Podemos colocar valores diferentes para cada lado (topo, direita, inferior, esquerda). Além disso, pode-se também adicionar as propriedades específicas para cada lado (ex.: padding-top).
+
+- **Background:** Podemos colocar cor (background-color, podendo usar a cor com seu formato hexadecimal ou até mesmo com o seu nome), imagem, ...
+
+- **Border:** Podemos especificar a largura (border-width), cor (border-color), estilo (border-style, podendo ser sólida, pontilhada, tracejada, ...). É possível arredondar os cantos da borda usando a propriedade border-radius.
