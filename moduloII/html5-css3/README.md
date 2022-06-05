@@ -17,3 +17,5 @@
 - **Semântica:** <section>, <header>, <article>, <aside>, <footer>, <h1>-<h6>
 
 - **Textos e links:** <h1>-<h6>, <p>, <a> (atributos principais: _href_ e _target_)
+
+- **Imagens:** <img> (atributos principais: _src_ e _alt_). Podemos usar o site [TinyPNG](tinypng.com) para reduzir o tamanho das imagens.
